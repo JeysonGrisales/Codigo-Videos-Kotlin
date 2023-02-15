@@ -1,0 +1,13 @@
+CONDICIONALES SIMPLES = https://youtu.be/OD1iIfzDTts 
+
+CONDICIONALES DOBLES = https://youtu.be/Tls0Zjcr3lc
+
+CONDICIONALES MULTIPLES = https://youtu.be/0CoYyS4ogbI
+
+WHEN CON EXPRESION = https://youtu.be/5HAE8PHPIVE
+
+CICLO WHILE = https://youtu.be/_WpYMQUTO3I
+
+CICLO DO WHILE = https://youtu.be/y3OCvsbJkRA
+
+CICLO FOR = https://youtu.be/04r1bd7d1rY
